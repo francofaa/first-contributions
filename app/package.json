@@ -11,8 +11,8 @@
     "sw-precache": "^5.2.0"
   },
   "dependencies": {
-    "react": "^15.4.0",
-    "react-dom": "^15.4.0",
+    "react": "^15.7.0",
+    "react-dom": "^15.7.0",
     "react-select": "^1.0.0-rc.10"
   },
   "scripts": {
